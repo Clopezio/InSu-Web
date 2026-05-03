@@ -36,7 +36,7 @@ export default function Crediti() {
                         className={"mb-10"}
                         delay={0.6}
                     >
-                        <p className={"max-w-100 text-center mt-0"}>Riconoscimenti e contributori</p>
+                        <p className={"max-w-100 text-center mt-0"}>Riconoscimenti ai contributori</p>
                     </AnimatedContent>
                 </div>
                 <div id={"home-page-head-background"} className={"absolute -z-100 w-full h-[50vh]"}>
